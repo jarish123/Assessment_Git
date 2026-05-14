@@ -3,3 +3,4 @@ line 2
 branch change
 change from test branch
 another change
+test branch conflict change
